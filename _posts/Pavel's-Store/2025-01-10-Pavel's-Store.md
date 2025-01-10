@@ -4,7 +4,7 @@ title:      Pavel's Store
 subtitle:   Unity Plugins,Models,VFX
 date:       2025-01-10
 author:     Pavel
-header-img: img/Post-bg-StarKribi.jpg
+header-img: img/玩具总动员4_ 杂物
 catalog: true
 tags:
     - 专辑
