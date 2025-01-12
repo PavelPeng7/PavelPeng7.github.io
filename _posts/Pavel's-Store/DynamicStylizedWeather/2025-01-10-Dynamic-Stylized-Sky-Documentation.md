@@ -4,7 +4,7 @@ title:      Dynamic Stylized Sky Documentation
 subtitle:   How to install and use Dynamic Stylized Sky plugin
 date:       2025-01-10
 author:     Pavel
-header-img: img/post-bg-DynamicStylizedSky
+header-img: img/post-bg-DynamicStylizedSky.jpg
 catalog: true
 tags:
     - Documentation
