@@ -2,7 +2,7 @@
 layout:     post
 title:      Dynamic Stylized Sky Documentation
 subtitle:   How to install and use Dynamic Stylized Sky plugin
-date:       2025-01-10
+date:       2025-01-12
 author:     Pavel
 header-img: img/post-bg-DynamicStylizedSky.jpg
 catalog: true
@@ -32,6 +32,6 @@ Use **Tools > Sky Manager Setup > Initial DynamicStylizedSkybox** to initialize 
 _Note: Avoid having extra directional lights in the scene._
 
 # How It Works
-**Sky**
+## Sky
 ![iShot_2025-01-12_14.18.12.png](https://pavelblog-images-1333471781.cos.ap-shanghai.myqcloud.com/undefined20250112143257904.png?imageSlim)
 The gradient bar represents the sky colors from midnight to noon (left to right), and from noon to midnight (right to left).
